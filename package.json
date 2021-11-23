@@ -1,8 +1,13 @@
 {
   "name": "pacific-default-dark-theme",
   "displayName": "Pacific Default Dark Theme",
-  "description": "The Default VS Code Theme with different editor colors.",
-  "version": "0.0.1",
+  "description": "The Default VS Code theme with different editor colors.",
+  "publisher": "michaelxf",
+  "repository": {
+    "url": "https://github.com/MichaelXF/pacific-default-dark-theme"
+  },
+  "icon": "images/logo_small.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.62.0"
   },
