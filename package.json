@@ -1,0 +1,21 @@
+{
+  "name": "pacific-default-dark-theme",
+  "displayName": "Pacific Default Dark Theme",
+  "description": "The Default VS Code Theme with darker Editor colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pacific Default Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pacific Default Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
