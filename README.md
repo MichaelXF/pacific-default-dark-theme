@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "new-color-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![Logo](https://raw.githubusercontent.com/MichaelXF/pacific-default-dark-theme/master/images/logo_small.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Pacific Default Dark Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Pacific Default Dark Theme](https://raw.githubusercontent.com/MichaelXF/pacific-default-dark-theme/master/images/image.png)
 
-**Enjoy!**
+The Default VS Code Theme with different editor colors.
